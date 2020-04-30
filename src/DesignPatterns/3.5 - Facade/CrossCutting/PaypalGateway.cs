@@ -54,7 +54,7 @@ namespace DesignPatterns.Facade.CrossCutting
                 Id = 1,
                 Nome = "Paypal",
                 EndPoint = "https://api.sandbox.paypal.com/v1/oauth2/token",
-                ApiKey = "QWJMenpZODdhYVZjZmJITms0NGFWVlduSktwXzB2SDlnWFg1T24tMGFFTnhlcnlwNENHcGxCX1VqWkNiYkdnX0g4NUg0SWJab19YSFFqV2I6RVBub1gyUDkzU05DVlhUNzZLQnJfOTc0QVN1MS1NdHhLeEI5a0FNYzk3ZjVJSDNOV1V5cG1rcm5TTm5YWTVJNS05N0htaVdGUGtrNFpPSWo="
+                ApiKey = "KEY"
             };
         }
     }
